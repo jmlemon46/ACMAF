@@ -1,0 +1,250 @@
+/*---------------------------------------------------------------------------------
+
+ Theme Name:   Bullseye
+ Theme URI:    http://bullseyetotalmedia.com
+ Description:  On target every time.
+ Author:       
+ Author URI:   
+ Template:     Divi
+ Version:      3.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+------------------------------ ADDITIONAL CSS HERE ------------------------------*/
+
+/***Login Page Styles***/
+body.login.login-action-.wp-core-ui.locale-en-us {
+    background: #000!important;
+}
+/***End Login Page Styles***/
+
+/***Vertically centers content in rows
+ * Make sure to set "equalize column heights in row settings
+ * add .ds-vertical-align class to each row
+ * ***/
+.ds-vertical-align { 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+} 
+
+/***Ends Vertically centers content in rows***/
+
+/***Adds Shadow to Sections when .shadow added***/
+.shadow {
+   -moz-box-shadow:   inset 1px 10px 75px -6px rgba(0,0,0,0.1);
+   -webkit-box-shadow: inset 1px 10px 75px -6px rgba(0,0,0,0.1);
+   box-shadow:         inset 1px 10px 75px -6px rgba(0,0,0,0.1);
+}
+/***End Shadow to Sections when .shadow added***/
+
+/***Switch column order on mobile***/
+@media only screen and ( max-width: 980px ) {
+.flip { 
+display: -webkit-flex;
+-webkit-flex-direction: column-reverse;
+display: flex;
+flex-direction: column-reverse !important;}
+	
+	.flip.et_section_specialty .et_pb_row {
+    display: -webkit-flex;
+    -webkit-flex-direction: column-reverse;
+    display: flex!important;
+    flex-direction: column-reverse!important;
+}
+	
+}
+/***end switch column on mobile***/
+
+/*INLINE BUTTONS*/
+
+.btn-inline .et_pb_column {
+    text-align:center;
+}
+
+.btn-inline .et_pb_button_module_wrapper {
+    display: inline-block !important;
+    margin: 10px;
+    text-align: center;
+}
+
+
+.btn-inline2 .et_pb_column {
+    text-align:center;
+}
+
+.btn-inline2 .et_pb_button_module_wrapper {
+    display: inline-block !important;
+    margin: 5px;
+    text-align: center;
+border: 3px
+}
+
+.btn-inline3 .et_pb_button_module_wrapper {
+    display: inline-block;
+    margin: 5px;
+}
+
+.btn-inline3 {
+    text-align: left !important;
+}
+/*END INLINE BUTTONS*/
+
+
+/* Center the login form */
+.et_pb_newsletter_form.et_pb_login_form {
+    display: flex!important;
+    justify-content: center!important;
+    width: 100%!important;
+}
+
+/*show desktop menu on phone - VERTICAL*/
+
+@media (max-width: 980px) {
+	.btm-vert-menu .et_pb_menu__menu {
+		display: flex!important;
+	}
+
+	.btm-vert-menu .et_mobile_nav_menu {
+		display: none!important;
+	}
+}
+
+.btm-vert-menu .et_pb_menu__menu li{
+		    width:100%!important;
+}
+
+
+/*show desktop menu on phone*/
+
+@media (max-width: 980px) {
+	.btm-open-menu .et_pb_menu__menu {
+		display: flex!important;
+	}
+	.btm-open-menu .et_mobile_nav_menu {
+		display: none!important;
+	}
+}
+
+
+/* Search bar in header */
+.et_pb_menu .et_pb_menu__search-input, .et_pb_fullwidth_menu .et_pb_menu__search-input {
+    background:#fff;
+    padding:.5em .75em;
+    max-width:350px;
+}
+
+/* Search Results */
+
+.search.results p.post-meta {
+    display:none;
+}
+
+.search.results .et_pb_post {
+    transition:all .4s ease;
+	margin-bottom:2em!important;
+}
+
+.search.results .et_pb_post:hover {
+    transform:translateY(-3px);
+}
+
+/* Blurb Card - Full Width Image */
+.blurbCard-fullWidthImage .et_pb_blurb_container {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .blurbCard-fullWidthImage .et_pb_blurb_container {
+        margin-left:1.5rem;
+        margin-right: 1.5rem;
+        padding-bottom: 1.5rem;
+    }
+}
+
+.blurbCard-fullWidthImage .et_pb_main_blurb_image {
+    width:100%!Important;
+}
+
+.blurbCard-fullWidthImage .et_pb_blurb_content {
+    max-width:100%!important;
+}
+
+#page-container .et_pb_blurb_content {
+    max-width:100%;
+}
+
+/* Blurb Icon Bullet */
+
+.blurb-iconBullet .et_pb_blurb_content {
+    display:flex;
+    align-items:center;
+}
+
+.blurb-iconBullet .et_pb_main_blurb_image {
+    margin-bottom:0px;
+}
+
+.et_pb_module_header {
+    padding-bottom:0px;
+    
+}
+
+/* Header Fixes */
+#page-container .et_mobile_menu li a:hover, #page-container .nav ul li a:hover {
+    background:transparent;
+}
+
+/* Footer 1 */
+
+/* Footer Fix */
+@media screen and (max-width: 1350px) {
+    .footer-nav .et_pb_menu_inner_container {
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-nav .et_pb_menu__logo {
+        margin: 0px;
+    }
+
+    .footer-nav #menu-footer-menu {
+        margin-top: 1rem;
+        justify-content: center;
+        max-width: 600px;
+    }
+
+    .footer-nav #menu-footer-menu a {
+        padding: 1rem;
+    }
+}
+
+
+/* Footer 2 */
+@media screen and (max-width: 980px) {
+    .footer-2 .et_pb_row {
+        display:grid!important;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .footer-2 .et_pb_column {
+        margin-bottom: 1.5rem!important;
+        width:100%!Important;
+    }
+
+    .footer-2 .et_pb_menu__wrap {
+        justify-content: flex-start;
+    }
+
+    .footer-2 .et_pb_column:first-of-type {
+        grid-column: span 2;
+    }
+
+    .footer-2 .et_pb_column:first-of-type  .et_pb_image  {
+        display:flex;
+    }
+
+}

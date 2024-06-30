@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Appalachian Children’s Music and Arts Foundation</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Appalachian Children’s Music and Arts Foundation provides developmental arts education courses for children who are underserved in the Tri-state region of West Virginia, Kentucky, and Ohio.</description>
+	<lastBuildDate>Wed, 08 Dec 2021 15:26:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/02/cropped-unnamed-2-32x32.jpg</url>
+	<title>Appalachian Children’s Music and Arts Foundation</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Example Post 3</title>
+		<link>/example-post-3/</link>
+					<comments>/example-post-3/#respond</comments>
+		
+		<dc:creator><![CDATA[jimmy]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 15:26:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=185</guid>
+
+					<description><![CDATA[Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum.]]></description>
+										<content:encoded><![CDATA[<p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/example-post-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Example Post 2</title>
+		<link>/example-post-2/</link>
+					<comments>/example-post-2/#respond</comments>
+		
+		<dc:creator><![CDATA[jimmy]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 15:26:05 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=183</guid>
+
+					<description><![CDATA[Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum.]]></description>
+										<content:encoded><![CDATA[<p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/example-post-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Example Post 1</title>
+		<link>/example-post-1/</link>
+					<comments>/example-post-1/#respond</comments>
+		
+		<dc:creator><![CDATA[jimmy]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 15:25:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=180</guid>
+
+					<description><![CDATA[Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum.]]></description>
+										<content:encoded><![CDATA[<p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/example-post-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

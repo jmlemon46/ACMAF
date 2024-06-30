@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Appalachian Children’s Music and Arts Foundation provides developmental arts education courses for children who are underserved in the Tri-state region of West Virginia, Kentucky, and Ohio.</description>
-	<lastBuildDate>Tue, 20 Feb 2024 06:50:49 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Jun 2024 18:07:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 </channel>
 </rss>
