@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-11-22T03:24:43+00:00</lastmod>
+		<lastmod>2026-02-14T23:00:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/unnamed-2.jpg</image:loc>
 		</image:image>
@@ -13,37 +13,31 @@
 			<image:loc>/wp-content/uploads/2024/02/418995672_284658544609958_8494420745533040921_n.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/305474882_754251102399654_4888696589841106625_n.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/Asset-5@2x.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/419893503_288152377593908_8875088137143751102_n.jpg</image:loc>
 		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/11/305474882_754251102399654_4888696589841106625_n.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/10/462539101_1022297406341178_7019951638812546174_n.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/layout-2/</loc>
 		<lastmod>2022-03-10T22:15:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/placeholder-2-400x250.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/placeholder-2-400x250.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/12/placeholder-2-400x250.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/layout/</loc>
 		<lastmod>2021-09-08T20:55:58+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/pngegg_-_Copy-removebg-preview.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/pngegg_-_Copy__2_-removebg-preview.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/pngegg_-_Copy-removebg-preview.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/pngegg_-_Copy__2_-removebg-preview.png</image:loc>
-		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/09/Atarim-original-small.png</image:loc>
 		</image:image>
@@ -78,10 +72,31 @@
 			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Wide-GraphB-1024x580-1.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/pngegg_-_Copy-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/pngegg_-_Copy__2_-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Wide-Man-150x150-1.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Woman-1024x1024-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/pngegg_-_Copy-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/pngegg_-_Copy__2_-removebg-preview.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Man.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Woman-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Wide-Man-150x150-1.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Wide-GraphB-1024x580-1.png</image:loc>
@@ -136,15 +151,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Wide-Image-1024x580-1-300x170-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Man.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Woman-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/09/WP-FeedBack-PRO-Prototype-Illustrations-Wide-Man-150x150-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
